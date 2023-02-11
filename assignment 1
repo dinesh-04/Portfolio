@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <title>Introduction</title>
+    <style>
+        body{background-color: rgb(44, 174, 174);}
+        h1{background-color: rgb(143, 170, 89)}
+        h2{background-color: rgb(152, 179, 97);}
+        h3{background-color: rgb(152, 179, 97);}
+    </style>
+</head>
+<body>
+<h1>Introduction</h1>
+<p>My name is Dinesh Babu.K</p>
+<p>I am persuing my B.tech degree in SRMist Vadapalani</p>
+<p>I am a budding Web Developer!</p>
+<hr>
+<h2>My Hobbies</h2>
+<p>I like to play sports, especially cricket,Football,Volleyball.</p>
+<p>I love listening to music,My favourite joner is 'Melody'</p>
+<h3>MY skillset</h3>
+<p><a href="https://github.com/dinesh-04"target="_blank">My Github</a></p>
+<p><a href="http://linkedin.com/in/dinesh-babu-58a726264"target="_blank">Linked in</a></p>
+<p><a href="https://www.hackerrank.com/dnesh5489"target="_blank">Hackerrank</a></p>
+</body>
+</html>
